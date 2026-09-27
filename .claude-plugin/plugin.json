@@ -1,0 +1,13 @@
+{
+  "name": "bloom",
+  "displayName": "Bloom",
+  "version": "1.0.0",
+  "description": "Connect Claude to Bloom's design canvas with browser OAuth, then inspect and edit canvas work.",
+  "author": {
+    "name": "Bloom Labs",
+    "url": "https://bloom.diy"
+  },
+  "homepage": "https://docs.bloom.diy/connect-bloom-mcp",
+  "repository": "https://github.com/BloomLabsInc/bloom-mcp",
+  "license": "MIT"
+}
