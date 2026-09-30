@@ -10,16 +10,24 @@
   "homepage": "https://docs.bloom.diy/connect-bloom-mcp",
   "repository": "https://github.com/BloomLabsInc/bloom-mcp",
   "license": "MIT",
-  "keywords": ["bloom", "canvas", "design", "mcp"],
+  "keywords": [
+    "bloom",
+    "canvas",
+    "design",
+    "mcp"
+  ],
   "extensions": {
     "com.openai": {
       "interface": {
         "displayName": "Bloom",
-        "shortDescription": "Design and edit Bloom canvases.",
-        "longDescription": "Connect your Bloom account with browser OAuth, inspect canvas work, make changes, and collaborate through comments.",
+        "shortDescription": "Design in Bloom",
+        "longDescription": "Connect your Bloom account with browser OAuth, inspect canvas work, make changes, and collaborate through comments. Bloom requires an account with early access.",
         "developerName": "Bloom Labs",
         "category": "Productivity",
-        "capabilities": ["Read", "Write"],
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
         "websiteURL": "https://docs.bloom.diy/connect-bloom-mcp",
         "privacyPolicyURL": "https://bloom.diy/privacy",
         "termsOfServiceURL": "https://bloom.diy/terms",
@@ -30,7 +38,8 @@
         ],
         "brandColor": "#2EA1F3",
         "composerIcon": "./assets/icon.png",
-        "logo": "./assets/icon.png"
+        "logo": "./assets/icon.png",
+        "supportURL": "https://bloom.diy/support/chat"
       }
     }
   }
