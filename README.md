@@ -1,5 +1,7 @@
 # Bloom MCP plugin
 
+Bloom Labs, Inc. is a Y Combinator company from the **P25 batch**.
+
 Connect ChatGPT, Codex, Claude, or Cursor to the Bloom design canvas through Bloom's hosted MCP
 server. This repository contains only connection metadata, Bloom branding, and a short bootstrap
 skill. The server and its detailed authoring guidance remain hosted by Bloom.
