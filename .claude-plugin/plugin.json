@@ -9,5 +9,6 @@
   },
   "homepage": "https://docs.bloom.diy/connect-bloom-mcp",
   "repository": "https://github.com/BloomLabsInc/bloom-mcp",
-  "license": "MIT"
+  "license": "MIT",
+  "privacyPolicyUrl": "https://bloom.diy/privacy"
 }
